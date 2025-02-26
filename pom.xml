@@ -15,6 +15,7 @@
     </properties>
 
     <dependencies>
+
         <!-- https://mvnrepository.com/artifact/net.serenity-bdd/serenity-core -->
         <dependency>
             <groupId>net.serenity-bdd</groupId>
